@@ -1,0 +1,56 @@
+- name: Smruti Padhy
+  photo: https://media.licdn.com/dms/image/C4E03AQF1a62BHoUVtA/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=ltDmX-eypzNC5KcC51C4_BIM69UW9YrEv0XDvz1RocY
+  duration: >
+    Research Scientist 2015 - 2017, now Engineering Scientist at Texas Advanced
+    Computing Center (TACC)
+  info: >
+    As a member of ReproNim, she developed BrainVerse, a project management
+    platform to make neuroimaging research more reproducible.
+  email: spadhy@tacc.utexas.edu
+  number_educ: 1
+  education1: PhD Computer Science, Indian Institute of Technology
+
+- name: Gregory Ciccarelli
+  photo: https://royalsociety.org/~/media/events/2018/11/attention-to-sound/Ciccarelli%20resized.jpg
+  duration: PhD student 2015 - 2018, now Technical Staff at MITLL
+  info: >
+    Imaging, processing, and modeling, speech from individuals with
+    self-assessed depression
+  email: gciccarelli@mit.edu
+  number_educ: 1
+  education1: PhD Electrical Engineering and Computer Science, MIT
+
+- name: Yoel Sanchez Araujo
+  photo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
+  duration: >
+    Technical Assistant 2015 - 2017, now Research Specialist at Princeton
+    University.
+  info: >
+    As a member of the group, he analyzed imaging and genetic data from
+    individuals with schizophrenia using machine learning. The data was from the
+    GENUS consortium and supported by an NIMH supplement to Genetic Determinants
+    of Schizophrenia Intermediate Phenotypes.
+  email: ysa@mit.edu
+  number_educ: 0
+  education1:
+
+- name: Shilpa Chakravartula
+  photo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
+  duration: Contractor 2017
+  info: >
+    As a member of the group, she helped investigate open science grid for
+    running large scale computation.
+  email: <not specified>
+  number_educ: 0
+  education1:
+
+- name: Du (Derry) Chen
+  photo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Missing_avatar.svg/2000px-Missing_avatar.svg.png
+  duration: Intern 2017, Undergraduate at Cornell University
+  info: >
+    As a member of the group, he helped improve BrainVerse implementation in
+    its early days.
+  email: <not specified>
+  number_educ: 0
+  education1:
+

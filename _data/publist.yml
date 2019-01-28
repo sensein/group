@@ -1,0 +1,86 @@
+- title: Functional gradients of the cerebellum
+  image: //iiif.elifesciences.org/lax:36652%2Felife-36652-fig1-v1.tif/full/1500,/0/default.jpg
+  description: >
+    We show that cerebellar functional regions follow a gradual organization
+    which progresses from primary (motor) to transmodal (DMN, task-unfocused)
+    regions. A secondary axis extends from task-unfocused to task-focused
+    processing.
+  authors: Guell X, Schmahmann JD, Gabrieli J, Ghosh SS
+  link:
+    url: https://doi.org/10.7554/eLife.36652
+    display:  Elife. 2018 Aug 14;7
+  highlight: 1
+  news2: >
+    Toolbox for using such gradient displays is described in our
+    <a href="https://doi.org/10.1371/journal.pone.0210028"
+    target="_blank">Littlebrain</a> paper
+
+- title: "fMRIPrep: a robust preprocessing pipeline for functional MRI"
+  image: //github.com/oesteban/fmriprep/raw/38a63e9504ab67812b63813c5fe9af882109408e/docs/_static/fmriprep-workflow-all.png
+  description: >
+    fMRIPrep is a Nipype-based, easily accessible, state-of-the-art approach for
+    processing functional MRI data that is robust to variations in scan
+    acquisition protocols and that requires minimal user input, while providing
+    easily interpretable and comprehensive error and output reporting.
+  authors: >
+    Esteban O, Markiewicz CJ, Blair RW, Moodie CA, Isik AI, Erramuzpe A, Kent JD,
+    Goncalves M, DuPre E, Snyder M, Oya H, Ghosh SS, Wright J, Durnez J,
+    Poldrack RA, Gorgolewski KJ
+  link:
+    url: https://doi.org/10.1038/s41592-018-0235-4
+    display:  Nature Methods. 2019 16:111–116
+  highlight: 1
+  news2:
+
+- title: "Distributed Weight Consolidation: A Brain Segmentation Case Study"
+  image: //dl.dropbox.com/s/yak1xaeh2e8k3mj/Screenshot%202019-01-27%2018.35.52.png
+  description: >
+    This paper introduces distributed weight consolidation (DWC), a continual
+    learning method to consolidate the weights of separate neural networks, each
+    trained on an independent dataset.
+  authors: >
+    McClure P, Zheng C, Kaczmarzyk J, Rogers-Lee J, Ghosh S, Nielson D,
+    Bandettini P, Pereira F
+  link:
+    url: https://papers.nips.cc/paper/7664-distributed-weight-consolidation-a-brain-segmentation-case-study
+    display:  Neural Information Processing Systems. 2018 31
+  highlight: 1
+  news2: >
+    Contribute models and code to the <a href="https://github.com/kaczmarj/nobrainer"
+    target="_blank">Nobrainer toolbox</a>.
+
+- title: Mindboggling morphometry of human brains
+  image: //mfr.osf.io/export?url=https://osf.io/y9yhg/?action=download%26direct%26mode=render&initialWidth=673&childId=mfrIframe&format=1200x1200.jpeg
+  description: >
+    This paper introduces a computational anatomy toolbox for extracting
+    individual anatomical features for a MRI based signature of brain morphology.
+  authors: >
+    Klein A, Ghosh SS, Bao FS, Giard J, Häme Y, Stavsky E, Lee N, Rossa B,
+    Reuter M, Chaibub Neto E, Keshavan A
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1005350
+    display:  PLoS Comput Biol. 2017 Feb;13(2):e1005350
+  highlight: 1
+  news2: >
+    More details available at the <a href="http://mindboggle.info"
+    target="_blank">Mindboggle website</a>
+
+- title: Situating the default-mode network along a principal gradient of macroscale cortical organization.
+  image: //www.pnas.org/content/pnas/113/44/12574/F1.medium.gif
+  description: >
+    The paper describes an overarching organization of large-scale connectivity
+    that situates the default-mode network at the opposite end of a spectrum
+    from primary sensory and motor regions. These results suggest that the
+    default-mode network consists of regions at the top of a representational
+    hierarchy that describe the current cognitive landscape in the most
+    abstract terms.
+  authors: >
+    Margulies DS, Ghosh SS, Goulas A, Falkiewicz M, Huntenburg JM, Langs G,
+    Bezgin G, Eickhoff SB, Castellanos FX, Petrides M, Jefferies E, Smallwood J
+  link:
+    url: https://doi.org/10.1073/pnas.1608282113
+    display:  Proc Natl Acad Sci U S A. 2016 Nov 1;113(44):12574-12579
+  highlight: 1
+  news2: >
+    Reviewed in <a href="https://doi.org/10.1016/j.tics.2016.12.002"
+    target="_blank">Gradients of Connectivity in the Cerebral Cortex</a>.

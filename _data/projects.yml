@@ -1,0 +1,128 @@
+- title: "Nipype: Dataflows for Reproducible Biomedical Research"
+  image: //miykael.github.io/nipype_tutorial/static/images/nipype_architecture.png
+  description: >
+    A Python-based platform for scalable scientific workflow design and execution.
+    Supported by NIBIB R01 EB020740.
+  authors: Nipype team
+  link:
+    url: https://nipype.readthedocs.io/en/latest/
+    display:  Read more about Nipype
+  highlight: 1
+  news2: <a href="https://github.com/nipy/nipype" target="_blank">Nipype on GitHub</a>
+
+- title: "ReproNim: A Center for Reproducible Neuroimaging Computation"
+  image: http://www.repronim.org/flow.svg
+  description: >
+    A Center dedicated to improving reproducibility in neuroimaging through the
+    development of products designed to enhance efficiency and provenance
+    tracking within laboratories and in collaboration with external stakeholders
+    such as data archives and publishers. Supported by NIBIB P41 EB019936 (PI:
+    David Kennedy, UMass Medical School).
+  authors: ReproNim team
+  link:
+    url: http://www.repronim.org/
+    display:  Read more about ReproNim
+  highlight: 1
+  news2: <a href="https://github.com/repronim" target="_blank">ReproNim on GitHub</a>
+
+- title: "Neuroscout: A cloud-based platform for rapid re-analysis of naturalistic fMRI datasets"
+  image: https://alpha.neuroscout.org/static/share.svg
+  description: >
+    A platform for fast and flexible re-analysis of (naturalistic) fMRI studies.
+    Supported by NIMH R01 MH109682 (PI: Tal Yarkoni, UTexas, Austin).
+  authors: Neuroscout team
+  link:
+    url: https://alpha.neuroscout.org/
+    display:  Alpha version of Neuroscout
+  highlight: 1
+  news2: <a href="https://github.com/neuroscout" target="_blank">Neuroscout on GitHub</a>
+
+- title: Vocal and language biomarkers of mental health
+  image:
+  description: >
+    The goal of this project is to observe and analyze vocal variation in
+    psychiatric and other neurological disorders and to understand the brain
+    bases of such variation. Key questions we hope to answer are: 1) Is voice a
+    good longitudinal biomarker? 2) How much vocal information is needed for
+    stable tracking? 3) Can linguistic information augment mdoels? 4) Can we
+    create a neurocomputational model of such systems?
+  authors: K Bentley, D Low, D Ghosh, G Ciccarelli, T Quatieri, M Nock
+  link:
+    url: http://voicesurvey.mit.edu/
+    display:  Project website coming soon
+  highlight: 1
+  news2:
+
+- title: Estimating vocal paralysis
+  image:
+  description: >
+    The aim of this project is to enable a continuous tracker for voice
+    (not speech) health. Key questions we hope to answer are: 1) Can voice
+    health be tracked longitudinally using a combination of signal processing
+    and machine learning? 2) Can a clinically relevant display be built to track
+    such voice health? 3) How much individual data is needed to provide a good
+    estimate of vocal health?
+  authors: P Song
+  link:
+    url:
+    display:  Project website coming soon
+  highlight: 0
+  news2:
+
+- title: Subcortical anatomy of the auditory system
+  image:
+  description: >
+    The aim of this project is to identify brainstem structures and their
+    connectivity. This is Kevin Sitek's NIH F31 project involving high resolution
+    imaging and analysis of _post mortem_ and _in vivo_ data.
+  authors: K Sitek, OF Gulban, F de Martino, GA Johnson, E Calabrese
+  link:
+    url:
+    display:  Project website coming soon
+  highlight: 0
+  news2:
+
+- title: Diffusion markers of hearing loss
+  image:
+  description: >
+    The aim of this project is to identify brainstem biomarkers of hearing loss
+    in humans and in mice.
+  authors: K Sitek, E Kozin, V Kanamuri
+  link:
+    url:
+    display:  Project website coming soon
+  highlight: 0
+  news2:
+
+- title: Imaging genetics analysis of schizophrenia
+  image:
+  description: >
+   This is a collaboration with the <a href="http://genus.mgh.harvard.edu/">Genus
+   Consortium</a> to apply multivariate data mining and visualizatin tools to
+   the GENUS dataset. An additional target is to support data harmonization in
+   multi-site studies. Key questions are: 1) Do multivariate deterministic and
+   probabilistic tools provide a more sensitive approach to detecting genetic
+   markers of brain structure and cognitive variation? 2) Can a common
+   vocabulary help organize and analyze multi-site data?
+  authors: Y Sanchez-Araujo, K Batmanghelich, G Blokland, T Petryshen
+  link:
+    url:
+    display:  Project website coming soon
+  highlight: 0
+  news2:
+
+- title: Using neurofeedback to reduce auditory hallucination in schizophrenia
+  image: https://cos.northeastern.edu/penlab/wp-content/uploads/2018/12/rtfMRI_update_final-1024x908.png
+  description: >
+   This is a collaboration with the <a href="https://cos.northeastern.edu/penlab/"
+   target="_blank">PEN Lab</a> to use realtime fMRI biofeedback to to increase
+   the positive diametric activity in patients with schizophrenia.
+  authors: >
+    S Whitfield-Gabrieli, C Bauer, K Okano, M Niznikiewicz, A van der Kouwe,
+    P Wighton
+  link:
+    url: https://cos.northeastern.edu/penlab/projects/real-time-fmri-neurofeedback/
+    display:  Description at PEN Lab
+  highlight: 1
+  news2:
+
