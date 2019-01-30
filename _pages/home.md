@@ -1,7 +1,7 @@
 ---
-title: "The Group - Home"
+title: "Home"
 layout: homelay
-excerpt: "The Group"
+excerpt: "Home"
 sitemap: false
 permalink: /
 ---

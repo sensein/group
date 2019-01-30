@@ -1,7 +1,7 @@
 ---
-title: "The Group - Team"
+title: "Team"
 layout: gridlay
-excerpt: "The Group: Members"
+excerpt: "Members"
 sitemap: false
 permalink: /team/
 ---

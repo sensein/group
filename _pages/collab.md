@@ -1,7 +1,7 @@
 ---
-title: "The Group - Collaborators"
+title: "Collaborators"
 layout: gridlay
-excerpt: "The Group: Collaborators"
+excerpt: "Collaborators"
 sitemap: false
 permalink: /collab/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The Group - Openings"
+title: "Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
