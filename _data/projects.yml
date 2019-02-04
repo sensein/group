@@ -53,6 +53,20 @@
   highlight: 1
   news2:
 
+- title: Contextual embeddings of voice and language
+  image:
+  description: >
+    The goal of this project is to improve incorporation of context in processing
+    streams of audio and/or text. This work is being done within Pliers to
+    improve features in Neuroscout and also in consideration of spoken or text
+    based dialogue systems.
+  authors: D Ghosh, D Low, G Cecchi, I Rish, F Pereira
+  link:
+    url:
+    display:  Project website coming soon
+  highlight: 0
+  news2:
+
 - title: Estimating vocal paralysis
   image:
   description: >
