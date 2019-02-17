@@ -7,9 +7,9 @@ permalink: /
 ---
 
 Our group uses neuroimaging, speech communication, and machine learning to 
-improve assessments and treatments for mental health. To support this effort, we 
-build frameworks and use extensive collaborations to improve efficiency of 
-analyses and reproducibility in science.
+improve assessments and treatments for mental health, and neurological disorders. 
+To support this effort, we build frameworks and use extensive collaborations to 
+improve efficiency of analyses and reproducibility in science.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
