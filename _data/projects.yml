@@ -84,14 +84,14 @@
   news2:
 
 - title: Subcortical anatomy of the auditory system
-  image:
+  image: https://ndownloader.figshare.com/files/14418503/preview/14418503/preview.jpg
   description: >
     The aim of this project is to identify brainstem structures and their
     connectivity. This is Kevin Sitek's NIH F31 project involving high resolution
     imaging and analysis of _post mortem_ and _in vivo_ data.
   authors: K Sitek, OF Gulban, F de Martino, GA Johnson, E Calabrese
   link:
-    url:
+    url: https://figshare.com/articles/Mapping_the_human_subcortical_auditory_system_Validation_across_histology_ex_vivo_MRI_and_in_vivo_MRI/7268312
     display:  Project website coming soon
   highlight: 0
   news2:
