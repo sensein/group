@@ -24,7 +24,6 @@
 - home: Concordia University, Montreal, Canada
   persons:
     - name: Tristan Glatard
-    - name: Valerie Hayot-Sasson
 
 - home: Dartmouth College, Hannover
   persons:
@@ -36,8 +35,6 @@
 
 - home: Florida International University, Miami
   persons:
-    - name: Katie Bottenhorn
-    - name: Angie Laird
     - name: Taylor Salo
 
 - home: Harvard Medical School, Boston
@@ -120,6 +117,7 @@
   persons:
     - name: Samir Das
     - name: Jean-Baptiste Poline
+    - name: Zaliqa Rosli
 
 - home: McLean Hospital, Lexington
   persons:
@@ -202,6 +200,7 @@
 
 - home: University of Texas, Austin
   persons:
+    - name: Cameron Craddock
     - name: Alejandro de la Vega
     - name: Tal Yarkoni
 
