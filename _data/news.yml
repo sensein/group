@@ -1,3 +1,27 @@
+- date: 2019 04 24
+  headline: >
+    Talk at <a href="https://uiowa.edu/informatics-computational-psychiatry-symposium/schedule-0">Computational Psychiatry Symposium</a> in Iowa.
+    <a href="https://www.dropbox.com/s/03oa9h4mq94l4xy/Iowa_Talk.pdf?dl=0">Slides</a>
+
+- date: 2019 04 11
+  headline: >
+    First Look presentation at Partners World Medical Innovation Forum.
+    <a href="https://www.youtube.com/watch?v=3k1m7y6XYW0&list=PLPkoxDmLtWIo58MbwP69mRNr-oUNgqBtQ&index=10">Video</a>
+
+- date: 2019 03 27 - 29
+  headline: >
+    At MONI 2.0 presenting reproducibility and standards with Dorota Jarecka and
+    assessment schemas and platforms with Anisha Keshavan.
+
+- date: 2019 03 25 - 26
+  headline: >
+    Creating a format for image transforms for BIDS derivatives.
+
+- date: 2019 03 6 - 8
+  headline: >
+    At Neuro Hackashop at Johns Hopkins to discuss platforms, reproducibility,
+    and more.
+
 - date: 2019 02 07
   headline: >
     ReproNim perspective article on reproducibility in neuroimaging is that
