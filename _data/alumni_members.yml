@@ -1,3 +1,14 @@
+- name: Jakub Kaczmarzyk
+  photo: http://gablab.mit.edu/wp-content/uploads/bfi_thumb/jakub-kaczmarzyk-nm70tqwp33rsy74h9rnrh7p1uakjit1lsoxbkqhvko.jpg
+  duration: >
+    Technical Assistant 2017 - 2019, now MD-PhD student at Stony Brook University
+  info: >
+    He developed Nobrainer and Neurodocker, and contributed to many of the
+    group's projects
+  email: jakubk@mit.edu
+  number_educ: 1
+  education1: BS Cognitive Science, Union College
+
 - name: Smruti Padhy
   photo: https://media.licdn.com/dms/image/C4E03AQF1a62BHoUVtA/profile-displayphoto-shrink_200_200/0?e=1553126400&v=beta&t=ltDmX-eypzNC5KcC51C4_BIM69UW9YrEv0XDvz1RocY
   duration: >

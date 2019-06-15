@@ -55,19 +55,19 @@
   education1: MRes Language & Communication Technologies, University of Groningen
   education2: MS Cognitive Science, CIMeC, University of Trento
 
+- name: Debbie Burdinski
+  photo: //www.hms.harvard.edu/md_phd/student/images/burdinski_dsc_3650.jpg
+  info: MD Student in Health Sciences & Technology
+  email: dclb@mit.edu
+  number_educ: 1
+  education1: Duke University
+
 - name: Mathias Goncalves
   photo: //avatars3.githubusercontent.com/u/14110164?s=460&v=4
   info: Technical Assistant, started 2015, working on Nipype, BANDA, ReproNim
   email: mathiasg@mit.edu
   number_educ: 1
   education1: BA Biology, Boston University
-
-- name: Jakub Kaczmarzyk
-  photo: http://gablab.mit.edu/wp-content/uploads/bfi_thumb/jakub-kaczmarzyk-nm70tqwp33rsy74h9rnrh7p1uakjit1lsoxbkqhvko.jpg
-  info: Technical Assistant, started 2017, working on Nipype, Repronim
-  email: jakubk@mit.edu
-  number_educ: 1
-  education1: BS Cognitive Science, Union College
 
 - name: Sanu Ann Abraham
   photo: //avatars3.githubusercontent.com/u/5114945?s=460&v=4
