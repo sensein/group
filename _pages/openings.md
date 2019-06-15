@@ -13,7 +13,7 @@ All positions are located in Cambridge, MA, USA.
 
 ## Current open positions
 
-#### [Research scientist](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=14669&localeCode=en-us)
+There are no job openings at the moment.
 
 ## UROPs
 If you are an undergraduate at MIT, we have several projects that are suited for 
