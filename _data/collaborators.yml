@@ -66,6 +66,7 @@
 
 - home: Maastricht University
   persons:
+    - name: Gabriella Blokland
     - name: Omer Faruk Gulban
     - name: Federico de Martino
 
@@ -73,6 +74,7 @@
   persons:
     - name: Clemens Bauer Hoss
     - name: Qasim Bukhari
+    - name: Leo Celi
     - name: Isabelle Frosch
     - name: John Gabrieli
     - name: Xavier Guell
@@ -88,7 +90,6 @@
 
 - home: Massachusetts General Hospital, Boston/Charlestown
   persons:
-    - name: Gabriella Blokland
     - name: Brian Edlow
     - name: Xavier Guell
     - name: Karl Helmer
@@ -146,6 +147,10 @@
     - name: Sheeba Arnold
     - name: Valur Olaffson
     - name: Susan Whitfield-Gabrieli
+
+- home: Ophthalmic Consultants Boston
+  persons:
+    - name: Michael Morley
 
 - home: Oxford University, Oxford, UK
   persons:
