@@ -123,7 +123,7 @@
     url: https://docs.google.com/presentation/d/14wvviEmK9FYyex6y8GqT-5w5wDdq02pjAF6wP5kSyvQ/edit
     display:  OHBM 2019 presentation
   highlight: 0
-  news2:
+  news2: <a href="https://github.com/YSanchezAraujo/variational_lsrc">Analysis code</a>
 
 - title: Using neurofeedback to reduce auditory hallucination in schizophrenia
   image: https://cos.northeastern.edu/penlab/wp-content/uploads/2018/12/rtfMRI_update_final-1024x908.png
