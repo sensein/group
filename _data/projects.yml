@@ -37,6 +37,19 @@
   highlight: 1
   news2: <a href="https://github.com/neuroscout" target="_blank">Neuroscout on GitHub</a>
 
+
+- title: "DANDI: Distributed Archives for Neurophysiology Data Integration"
+  image: https://dl.dropbox.com/s/fhpw39cnog45p92/dandi-workflow-v2.png
+  description: >
+    A platform for data ingestion, search, and computing targeted towards
+    cellular neurophysiology. Supported by NIMH R24MH117295 (PI: Ghosh and Halchenko).
+  authors: DANDI team (MIT, Dartmouth, Kitware)
+  link:
+    url:
+    display:  Project website coming soon.
+  highlight: 1
+  news2: <a href="https://github.com/dandi" target="_blank">DANDI on GitHub</a>
+
 - title: Vocal and language biomarkers of mental health
   image:
   description: >
