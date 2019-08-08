@@ -1,3 +1,31 @@
+- name: Kevin Sitek
+  photo: //scholar.harvard.edu/files/sitek/files/sthelena.jpg?m=1486764630
+  duration: 2012 - 209, now postdoc at Dr. David Ress' lab in Baylor College of Medicine, Houston, TX
+  info: >
+    Worked on auditory brainstem neurophysiology, speech production in depression
+    and indivudals who stutter. Recipient of an NIH F31 award.
+  email: ksitek@mit.edu
+  number_educ: 2
+  education1: PhD, Speech and Hearing Biosciences and Technology, Harvard University
+  education2: BS Linguistics, University of California, Berkeley
+
+- name: Debanjan Ghosh
+  photo: //scholar.google.com/citations?view_op=medium_photo&user=Sc_vp7gAAAAJ&citpid=1
+  duration: 2018 - 2019, now at Educational Testing Service
+  info: Worked on language models in Neuroscout
+  email: dg513@mit.edu
+  number_educ: 1
+  education1: PhD Computer Science, Rutgers University
+
+- name: Wazeer Zulfikar
+  photo: //avatars1.githubusercontent.com/u/15856554?s=460&v=4
+  duration: >
+     Visiting student, 2019
+  info: Worked on generative models for brains and tumors.
+  email: wazeer@mit.edu
+  number_educ: 1
+  education1: BITS Pilani, Goa
+
 - name: Jakub Kaczmarzyk
   photo: http://gablab.mit.edu/wp-content/uploads/bfi_thumb/jakub-kaczmarzyk-nm70tqwp33rsy74h9rnrh7p1uakjit1lsoxbkqhvko.jpg
   duration: >

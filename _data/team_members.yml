@@ -22,7 +22,6 @@
   number_educ: 1
   education1: PhD Florida International University
 
-
 - name: Kate Bentley
   photo: //static.projects.iq.harvard.edu/files/styles/profile_full/public/nocklab/files/katebentley.jpg?m=1538413235&itok=eimTu4Yw
   info: Visiting scientist, started Jan 2019
@@ -32,28 +31,12 @@
   education2: Clinical Fellow, MGH
   education3: Recipient of the MIT-Philips Award for Clinicians
 
-- name: Debanjan Ghosh
-  photo: //scholar.google.com/citations?view_op=medium_photo&user=Sc_vp7gAAAAJ&citpid=1
-  info: Postdoc, started 2018, working on language models in Neuroscout
-  email: dg513@mit.edu
-  number_educ: 1
-  education1: PhD Computer Science, Rutgers University
-
 - name: Christopher J Markiewicz
   photo: //avatars2.githubusercontent.com/u/83442?s=460&v=4
   info: Research Affiliate, started 2017, working on Nipype, Neuroscout
   email: cjmarkie@mit.edu
   number_educ: 1
   education1: PhD Cognitive and Neural Systems, Boston University
-
-- name: Kevin Sitek
-  photo: //scholar.harvard.edu/files/sitek/files/sthelena.jpg?m=1486764630
-  info: >
-    PhD Student, started 2012, working on auditory neuroanatomy
-  email: ksitek@mit.edu
-  number_educ: 2
-  education1: BS Linguistics, University of California, Berkeley
-  education2: NIH F31 Recipient
 
 - name: Daniel M. Low
   photo: //brainwine.files.wordpress.com/2017/08/11200633_10153377477153120_4173142851072194855_n.jpg
@@ -83,10 +66,3 @@
   email: sanuann@mit.edu
   number_educ: 1
   education1: MS Electronics and Electrical Communication Engineering, IIT Kharagpur
-
-- name: Wazeer Zulfikar
-  photo: //avatars1.githubusercontent.com/u/15856554?s=460&v=4
-  info: Visiting student, started 2019, working on generative models for tumors
-  email: wazeer@mit.edu
-  number_educ: 1
-  education1: BITS Pilani, Goa
