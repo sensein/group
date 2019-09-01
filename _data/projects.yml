@@ -1,3 +1,15 @@
+- title: "DANDI: Distributed Archives for Neurophysiology Data Integration"
+  image: https://dl.dropbox.com/s/fhpw39cnog45p92/dandi-workflow-v2.png
+  description: >
+    A platform for data ingestion, search, and computing targeted towards
+    cellular neurophysiology. Supported by NIMH R24MH117295 (PI: Ghosh and Halchenko).
+  authors: DANDI team (MIT, Dartmouth, Kitware)
+  link:
+    url: https://dandiarchive.org/
+    display:  Project website.
+  highlight: 1
+  news2: <a href="https://github.com/dandi" target="_blank">DANDI on GitHub</a>
+
 - title: "Nipype: Dataflows for Reproducible Biomedical Research"
   image: //miykael.github.io/nipype_tutorial/static/images/nipype_architecture.png
   description: >
@@ -37,19 +49,6 @@
   highlight: 1
   news2: <a href="https://github.com/neuroscout" target="_blank">Neuroscout on GitHub</a>
 
-
-- title: "DANDI: Distributed Archives for Neurophysiology Data Integration"
-  image: https://dl.dropbox.com/s/fhpw39cnog45p92/dandi-workflow-v2.png
-  description: >
-    A platform for data ingestion, search, and computing targeted towards
-    cellular neurophysiology. Supported by NIMH R24MH117295 (PI: Ghosh and Halchenko).
-  authors: DANDI team (MIT, Dartmouth, Kitware)
-  link:
-    url:
-    display:  Project website coming soon.
-  highlight: 1
-  news2: <a href="https://github.com/dandi" target="_blank">DANDI on GitHub</a>
-
 - title: Vocal and language biomarkers of mental health
   image:
   description: >
@@ -80,7 +79,7 @@
   highlight: 0
   news2:
 
-- title: Estimating vocal paralysis
+- title: Diagnosing vocal paralysis and spasmodic dysphonia
   image:
   description: >
     The aim of this project is to enable a continuous tracker for voice
@@ -93,7 +92,7 @@
   link:
     url:
     display:  Project website coming soon
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: Subcortical anatomy of the auditory system
@@ -106,7 +105,7 @@
   link:
     url: https://docs.google.com/presentation/d/1HeepU82sskD2VL62vcktGBSE5nl35toq9k47gKefBqc/edit#slide=id.p
     display:  Poster from OHBM 2019
-  highlight: 1
+  highlight: 0
   news2: <a href="https://www.biorxiv.org/content/10.1101/568139v2">Article preprint</a>
 
 - title: Diffusion markers of hearing loss
@@ -150,6 +149,6 @@
   link:
     url: https://cos.northeastern.edu/penlab/projects/real-time-fmri-neurofeedback/
     display:  Description at PEN Lab
-  highlight: 1
+  highlight: 0
   news2:
 
