@@ -17,7 +17,7 @@ All positions are located in Cambridge, MA, USA.
 
 The position is to work on neuroinformatics projects [DANDI](https://dandiarchive.org), 
 [Nipype](https://nipype.readthedocs.io/en/latest/), 
-[Pydra](https://github.com/nipype/pydra), and [ReproNim](https://repronim.org).
+[Pydra](https://github.com/nipype/pydra), and [ReproNim](https://www.repronim.org).
 The candidate will be expected to both implement solutions and also to create 
 new architectures and technologies for knowledge management systems. 
 
