@@ -45,7 +45,7 @@
     url: https://doi.org/10.1038/s41592-018-0235-4
     display:  Nature Methods. 2019 16:111–116
   highlight: 1
-  news2:
+  news2: <a href="//fmriprep.readthedocs.io/en/stable/index.html target="_blank">fMRIPrep Documentation</a>
 
 - title: "Distributed Weight Consolidation: A Brain Segmentation Case Study"
   image: //dl.dropbox.com/s/yak1xaeh2e8k3mj/Screenshot%202019-01-27%2018.35.52.png
@@ -61,8 +61,8 @@
     display:  Neural Information Processing Systems. 2018 31
   highlight: 1
   news2: >
-    Contribute models and code to the <a href="https://github.com/kaczmarj/nobrainer"
-    target="_blank">Nobrainer toolbox</a>.
+    Models and code at <a href="https://github.com/neuronets/"
+    target="_blank">Neuronets on Github</a>.
 
 - title: Mindboggling morphometry of human brains
   image: //mfr.osf.io/export?url=https://osf.io/y9yhg/?action=download%26direct%26mode=render&initialWidth=673&childId=mfrIframe&format=1200x1200.jpeg
