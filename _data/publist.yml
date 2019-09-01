@@ -1,3 +1,19 @@
+- title: Mapping the human subcortical auditory system using histology, postmortem MRI and in vivo MRI at 7T
+  image: //iiif.elifesciences.org/lax:48932%2Felife-48932-fig5-v2.tif/full/1500,/0/default.jpg
+  description: >
+    This work captures current MRI capabilities for investigating the human
+    subcortical auditory system, describes challenges that remain, and
+    contributes novel, openly available data, atlases, and tools for
+    researching the human auditory system.
+  authors: Sitek KR, Gulban OF, Calabrese E, Johnson GA, Lage-Castellanos A, Moerel M, Ghosh SS, De Martino F
+  link:
+    url: https://doi.org/10.7554/eLife.48932
+    display:  Elife. 2019 Aug 1;8
+  highlight: 1
+  news2: >
+    <a href="//elifesciences.org/articles/48932/figures#data"
+    target="_blank"Data and code availability</a>
+
 - title: Functional gradients of the cerebellum
   image: //iiif.elifesciences.org/lax:36652%2Felife-36652-fig1-v1.tif/full/1500,/0/default.jpg
   description: >
