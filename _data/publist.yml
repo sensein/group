@@ -11,7 +11,7 @@
     display:  Elife. 2019 Aug 1;8
   highlight: 1
   news2: >
-    Resources: <a href="//elifesciences.org/articles/48932/figures#data" target="_blank"Data and code availability</a>
+    <a href="//elifesciences.org/articles/48932/figures#data" target="_blank">Data and code availability</a>
 
 - title: Functional gradients of the cerebellum
   image: //iiif.elifesciences.org/lax:36652%2Felife-36652-fig1-v1.tif/full/1500,/0/default.jpg
