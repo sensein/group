@@ -48,7 +48,7 @@
 
 - name: Debbie Burdinski
   photo: //www.hms.harvard.edu/md_phd/student/images/burdinski_dsc_3650.jpg
-  info: MD Student in Health Sciences & Technology
+  info: MD/PhD Student in HST, Harvard Medical School
   email: dclb@mit.edu
   number_educ: 1
   education1: Duke University
@@ -66,3 +66,23 @@
   email: sanuann@mit.edu
   number_educ: 1
   education1: MS Electronics and Electrical Communication Engineering, IIT Kharagpur
+
+- name: Aishah Ismail
+  photo: https://i1.rgstatic.net/ii/profile.image/721324620124160-1548988599234_Q512/Aishah_Ismail4.jpg
+  info: Visiting student
+  email: aishah3@mit.edu
+  number_educ: 3
+  education1: BS Biomedical Science, Management and Science University, Malaysia
+  education2: MS Allied Health Sciences; Biomedical Science, National University of Malaysia
+  education3: PhD Candidate, Biomedical Engineering, University Teknologi PETRONAS, Malaysia
+  education4:
+
+- name: Bhavya Kandimalla
+  photo: https://avatars1.githubusercontent.com/u/32016424?s=400&u=dfa0c934cfbbfa0d8edf38662337e0ae170a771d&v=4
+  info: Intern at MIT; MS Student in Bioinformatics at Johns Hopkins University
+  email: bkandimalla.wpi@gmail.com
+  number_educ: 3
+  education1: BS Biology and Biotechnology, Worcester Polytechnic Institute
+  education2: MS Candidate Bioinformatics, Johns Hopkins University
+  education3: <a href="https://www.linkedin.com/in/bhavya-kandimalla-a02248100">Full CV</a>
+  education4:
