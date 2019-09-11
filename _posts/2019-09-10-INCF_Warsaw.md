@@ -20,6 +20,6 @@ Before the main conference we also had a Special Interest Group meeting of the [
 [Pydra]: https://github.com/nipype/pydra
 [Copernicus]: http://mathcoglab.umk.pl/
 [GDPR]: https://eugdpr.org/
-[NIDM]: The Neuroimaging Data Model
+[NIDM]: http://nidm.nidash.org/
 [poster_dj]: https://drive.google.com/file/d/13xbpwU71oQjc41EERkOc1GWrSdzXQFP-/view?usp=sharing
 [poster_saa]: https://drive.google.com/file/d/15wNCzwPwBVbeost4QuXeO7N-3vLm4ACi/view?usp=sharing
