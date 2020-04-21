@@ -18,7 +18,12 @@ for guiding psychiatrists and patients. Current areas include depression,
 suicide, anxiety disorders, autism, Parkinson disease, and brain tumors.
 
 To support this broader goal, our group develops novel analytic platforms that 
-use such information to create robust, predictive models around human health. 
+use such information to create robust, predictive models around human health. We 
+believe that solving this problem will require complex integration of different
+types of sensors into an adaptive learning system together with patient, caregiver,
+and community feedback.
+
+<img src="{{ "/images/multi_sensory_integration.png" | prepend: site.baseurl | prepend: site.url}}" class="img-responsive" width="50%" style="float: left" />
 
 Our research interests span computer science and neuroscience, specifically in 
 the areas of applied machine learning, signal processing, and translational 
