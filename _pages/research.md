@@ -8,6 +8,8 @@ permalink: /research/
 
 # Research
 
+<img src="{{ "/images/multi_sensory_integration.png" | prepend: site.baseurl | prepend: site.url}}" class="img-responsive" width="50%" style="float: left" />
+
 A fundamental problem in psychiatry is that there are no biological markers for 
 diagnosing mental illness or for indicating how best to treat it. Treatment 
 decisions are based entirely on symptoms, and doctors and their patients will 
@@ -22,8 +24,6 @@ use such information to create robust, predictive models around human health. We
 believe that solving this problem will require complex integration of different
 types of sensors into an adaptive learning system together with patient, caregiver,
 and community feedback.
-
-<img src="{{ "/images/multi_sensory_integration.png" | prepend: site.baseurl | prepend: site.url}}" class="img-responsive" width="50%" style="float: left" />
 
 Our research interests span computer science and neuroscience, specifically in 
 the areas of applied machine learning, signal processing, and translational 
