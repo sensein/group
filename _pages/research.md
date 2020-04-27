@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-<img src="{{ "/images/multi_sensory_integration.png" | prepend: site.baseurl | prepend: site.url}}" class="img-responsive" width="50%" style="float: left" />
+<img src="{{ "/images/multi_sensory_integration.png" | prepend: site.baseurl | prepend: site.url}}" class="img-responsive" width="50%" style="float: right; margin: 0.8%; min-width: 350px" />
 
 A fundamental problem in psychiatry is that there are no biological markers for 
 diagnosing mental illness or for indicating how best to treat it. Treatment 
