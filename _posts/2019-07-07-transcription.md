@@ -7,6 +7,8 @@ author: Daniel Low
 
 #### Intro
 
+This is a tutorial to trancribe audio files using DeepSpeech (free) or Google (paid).
+
 Instead of paying for transcriptions, speech recognition engines have been improved to the point where relatively decent automatic transcriptions can be performed for free. These transcriptions can then be edited by a human annotator if required, which would reduce costs.  
 
 Mozilla, the open-source community that created Firefox, has developed [DeepSpeech](https://github.com/mozilla/DeepSpeech), which is an open source Speech-To-Text engine based on a [Baidu's Deep Speech model](https://arxiv.org/abs/1412.5567). They trained it on CommonVoice corpora, an effective approach to collecting data from the community across many languages (you can quickly contribute  [here](https://voice.mozilla.org/en)). Using the DeepSpeech 0.5.0 model provided below, they achieve 8.22% word error rate on the LibriSpeech clean test corpus. 
@@ -15,7 +17,7 @@ Below is an fast setup to use DeepSpeech and the paid alternative Google Cloud T
 #### Setup
 [Install python3](https://realpython.com/installing-python/)
 
-Open the terminal and run these commands:
+To clone the [repo with code found here](https://github.com/danielmlow/deepspeech_transcription), open the terminal and run these commands:
 
 ```
 git clone https://github.com/danielmlow/deepspeech_transcription.git
