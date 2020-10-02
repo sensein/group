@@ -22,15 +22,6 @@
   number_educ: 1
   education1: PhD Florida International University
 
-- name: Kate Bentley
-  photo: //static.projects.iq.harvard.edu/files/styles/profile_full/public/nocklab/files/katebentley.jpg?m=1538413235&itok=eimTu4Yw
-  info: Visiting scientist, started Jan 2019
-  email: kbent@mit.edu
-  number_educ: 3
-  education1: PhD Boston University
-  education2: Clinical Fellow, MGH
-  education3: Recipient of the MIT-Philips Award for Clinicians
-
 - name: Christopher J Markiewicz
   photo: //avatars2.githubusercontent.com/u/83442?s=460&v=4
   info: Research Affiliate, started 2017, working on Nipype, Neuroscout
@@ -67,13 +58,6 @@
   number_educ: 1
   education1: MS Electronics and Electrical Communication Engineering, IIT Kharagpur
   
-- name: Alice Bizeul
-  photo: //avatars3.githubusercontent.com/u/43455173?s=460&v=4
-  info: Visiting MS student from EPFL
-  email: alice.bizeul@mit.edu
-  number_educ: 1
-  education1: BA Life Sciences Engineering, EPFL 
-  
 - name: Jeff Mentch
   photo: https://scholar.harvard.edu/files/mentch/files/y3xdh4wb_400x400.jpg
   info: PhD Student, Harvard SHBT
@@ -92,14 +76,14 @@
   education3: PhD, MIT Media Lab
 
 - name: Aakanksha Rana
-  photo: //avatars3.githubusercontent.com/u/5114945?s=460&v=4
+  photo: //team.inria.fr/ayin/files/2013/08/aak.jpg
   info: Postdoctoral Associate, MIT
   email: aakrana@mit.edu
   number_educ: 2
   education1: M.S, Signal Processing, Telecom Paris(ENST)
   education2: Ph.D., Computer Vision & Machine Learning, Telecom Paris(ENST)
 
- -name: Dhritiman Das
+- name: Dhritiman Das
   photo: //scholar.googleusercontent.com/citations?view_op=medium_photo&user=mpptTvcAAAAJ&citpid=2
   info: Postdoctoral Researcher, MIT; working on Nobrainer
   email: dasd@mit.edu

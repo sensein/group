@@ -1,3 +1,21 @@
+- name: Alice Bizeul
+  photo: //avatars3.githubusercontent.com/u/43455173?s=460&v=4
+  duration: Spring - Summer 2020
+  info: Visiting MS student from EPFL; Worked on evaluating BRAIN GANs
+  email: alice.bizeul@mit.edu
+  number_educ: 1
+  education1: BA Life Sciences Engineering, EPFL
+
+- name: Kate Bentley
+  photo: //static.projects.iq.harvard.edu/files/styles/profile_full/public/nocklab/files/katebentley.jpg?m=1538413235&itok=eimTu4Yw
+  duration: 2019 - 2020
+  info: Visiting scientist
+  email: kbent@mit.edu
+  number_educ: 3
+  education1: PhD Boston University
+  education2: Clinical Fellow, MGH
+  education3: Recipient of the MIT-Philips Award for Clinicians
+
 - name: Aishah Ismail
   photo: https://i1.rgstatic.net/ii/profile.image/721324620124160-1548988599234_Q512/Aishah_Ismail4.jpg
   duration: Fall 2019
