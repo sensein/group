@@ -1,0 +1,198 @@
+
+- title: "Spherical U-Net on Cortical Surfaces Methods and Applications"
+  description: >
+    This paper addresses the drawbacks of applying CNNs to spherical topologies such as those seen in medical imaging structures by 
+    proposing a novel convolution filter analogous to the standard convolution on the image grid. A Spherical U-Net architecture is developed 
+    which replaces all operations in the standard U-Net with their spherical operation counterparts.
+  type: Paper 
+  date: 2019 06
+  authors: Zhao et al. 
+  link:
+         url: http://arxiv.org/pdf/1503.02531
+         display: Article
+  code link: 
+        url: https://github.com/zhaofenqiang/Spherical_U-Net
+        display: Code
+        
+ - title: "Black Magic in Deep Learning: How Human Skill Impacts Network Training"
+   description: >
+    This paper presents an initial study to assess how a user's prior experience with deep learning impact accuracy. 
+    The results show a strong positive correlation between the participant's experience and the final performance. They additionally indicate that an experienced participant finds better solutions using fewer resources on average.
+   type: Paper 
+   date: 2020 08
+   authors: Anand et al. 
+   link:
+        url: https://arxiv.org/abs/2008.05981
+        display: Article
+   code link: 
+          url: https://github.com/anandkanav92/htune
+          display: Code       
+
+- title: "Knowing what you know in brain segmentation using Bayesian deep neural net"
+   description: >
+    In this paper, a Bayesian deep neural network (DNN) is proposed for predicting FreeSurfer segmentations of structural MRI volumes. 
+    The network is trained using a novel spike-and-slab dropout-based variational inference approach and outperforms other methods in terms of similarity 
+    between the segmentation predictions and freesurfer labels.
+   type: Paper 
+   date: 2019 09
+   authors: McClure et al.
+   link:
+        url: https://arxiv.org/abs/1812.01719
+        display: Article
+   code link: 
+          url: https://github.com/neuronets/kwyk
+          display: Code       
+
+- title: "Pydra"
+   description: >
+    A simple dataflow engine with scalable semantics.
+   type: Project 
+   date: 2020 09
+   authors: SenseIn Lab, MIT
+   link:
+        url: https://github.com/nipype/pydra
+        display: Project webpage
+     
+- title: "Nobrainer"
+   description: >
+    A deep learning framework for 3D image processing of brain imaging data.
+   type: Project 
+   date: 2020 09
+   authors: SenseIn Lab, McGovern MIT
+   link:
+        url: https://github.com/neuronets/nobrainer
+        display: Project webpage
+
+- title: "OpenNeuro"
+   description: >
+    A free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data using BIDS specification.
+   type: Dataset 
+   date: 2020 09
+   authors: Stanford, NIH, et al.
+   link:
+        url: https://openneuro.org
+        display: Project webpage
+
+- title: "OpenNeuro"
+   description: >
+    A free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data using BIDS specification.
+   type: Dataset 
+   date: 2020 09
+   authors: Stanford, NIH, et al.
+   link:
+        url: https://openneuro.org
+        display: Project webpage
+
+- title: "TensorFlow"
+   description: >
+    nd-to-end open source platform for machine learning developed by Google.
+   type: Software 
+   date: 2020 11
+   authors: Google, et al.
+   link:
+        url: https://www.tensorflow.org
+        display: Project webpage
+
+- title: "DLTK"
+   description: >
+    A toolkit to enable fast prototyping with a low entry threshold and ensure reproducibility in image analysis applications, 
+    with a particular focus on medical imaging.   
+   type: Software 
+   date: 2020 11
+   authors: Imperial College, et al.
+   link:
+        url: https://github.com/DLTK/DLTK
+        display: Project webpage
+
+
+- title: "Self Supervised Representation Learning"
+   description: >
+   This post covers many interesting ideas of self-supervised learning tasks on images, videos, and control problems.
+   type: Tutorial 
+   date: 2019 11
+   authors: Lilian Weng.
+   link:
+        url: https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
+        display: Tutorial webpage
+
+- title: "Deep Learning - Berkeley"
+   description: >
+   
+   type: Tutorial 
+   date: 2017 01
+   authors: Darrell, Levine, Song et al.
+   link:
+        url: https://berkeley-deep-learning.github.io/cs294-131-s17/
+        display: Course webpage
+
+- title: "Tensor Flow tutorials - Stanford"
+   description: >
+   
+   type: Tutorial 
+   date: 2018 04
+   authors: Chip Huyen et al.
+   link:
+        url: https://github.com/chiphuyen/stanford-tensorflow-tutorials/
+        display: Course webpage
+
+- title: "Tensor Flow tutorials - Stanford"
+   description: >
+   
+   type: Tutorial 
+   date: 2018 04
+   authors: Chip Huyen et al.
+   link:
+        url: https://github.com/chiphuyen/stanford-tensorflow-tutorials/
+        display: Course webpage
+
+- title: "Timnit Gebru - TedTalk: How To Stop Artificial Intelligence From Marginalizing Communities?"
+   description: >
+   Timnit Gebru, Co-Founder of Black in AI, talks about inherent biases in current artificial intelligence methods and 
+   how it affects communities.
+   type: Tutorial 
+   date: 2018 10
+   authors: Timnit Gebru, TedTalks
+   link:
+        url: https://www.youtube.com/watch?v=PWCtoVt1CJM
+        display: Video Link
+
+- title: "Underspecification Presents Challenges for Credibility in Modern Machine Learning"
+   description: >
+   An ML pipeline is underspecified when it can return many predictors with equivalently strong held-out performance in the training domain. 
+   During deployment, this can lead to issues such as instability and poor model behavior in practice. 
+   This review paper shows the need to explicitly account for underspecification in modeling pipelines that are intended for real-world deployment in any domain.   
+   type: Review paper
+   date: 2020 11
+   authors: D'Amour, Heller et al.
+   link:
+        url: https://arxiv.org/pdf/2011.03395.pdf
+        display: Paper
+
+- title: "Artificial Intelligence Neural Network Learns When It Should Not Be Trusted"
+   description: >
+   This article discusses the potential benefits on real-world safe usage of AI caused by improvements in uncertainty estimation in AI models.
+   type: News
+   date: 2020 11
+   authors: Daniel Ackerman, MIT
+   link:
+        url: https://scitechdaily.com/artificial-intelligence-neural-network-learns-when-it-should-not-be-trusted/
+        display: Article
+
+- title: "AlphaFold: using AI for scientific discovery"
+   description: >
+   AlphaFold, an AI model developed at DeepMind, used large genomic datasets to predict the 3D structure of a protein 
+   and has achieved unprecedented levels of accuracy - marking significant progress on one of the grand challenges in biology.
+   type: News
+   date: 2020 11
+   authors: DeepMind
+   link:
+        url: https://deepmind.com/blog/article/AlphaFold-Using-AI-for-scientific-discovery
+        display: Article
+
+
+
+
+
+
+
+
