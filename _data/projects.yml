@@ -38,14 +38,14 @@
   news2: <a href="https://github.com/repronim" target="_blank">ReproNim on GitHub</a>
 
 - title: "Neuroscout: A cloud-based platform for rapid re-analysis of naturalistic fMRI datasets"
-  image: https://alpha.neuroscout.org/static/share.svg
+  image: https://neuroscout.org/static/Neuroscout_Simple_Wide.svg
   description: >
     A platform for fast and flexible re-analysis of (naturalistic) fMRI studies.
     Supported by NIMH R01 MH109682 (PI: Tal Yarkoni, UTexas, Austin).
   authors: Neuroscout team
   link:
-    url: https://alpha.neuroscout.org/
-    display:  Alpha version of Neuroscout
+    url: https://neuroscout.org/
+    display:  Neuroscout Website
   highlight: 1
   news2: <a href="https://github.com/neuroscout" target="_blank">Neuroscout on GitHub</a>
 
