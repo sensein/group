@@ -10,6 +10,19 @@
   highlight: 1
   news2: <a href="https://github.com/dandi" target="_blank">DANDI on GitHub</a>
 
+- title: "Nobrainer: A Robust And Validated Neural Netwrok Tool Suite For Imagers"
+  image: https://dl.dropbox.com/s/fhpw39cnog45p92/dandi-workflow-v2.png
+  description: >
+    Develop an open Python library to simplify integrating deep learning into neuroimaging research. 
+    We will build and distribute user-friendly and cloud enabled end-user applications for the 
+    neuroimaging community.
+  authors: Nobrainer team (MIT, MGH, GSU)
+  link:
+    url: https://projectreporter.nih.gov/project_info_description.cfm?aid=10021957
+    display:  Project summary from NIH.
+  highlight: 1
+  news2: <a href="https://github.com/neuronets" target="_blank">Neuronets on GitHub</a>
+
 - title: "Nipype: Dataflows for Reproducible Biomedical Research"
   image: //miykael.github.io/nipype_tutorial/static/images/nipype_architecture.png
   description: >
@@ -46,8 +59,19 @@
   link:
     url: https://neuroscout.org/
     display:  Neuroscout Website
-  highlight: 1
+  highlight: 0
   news2: <a href="https://github.com/neuroscout" target="_blank">Neuroscout on GitHub</a>
+
+- title: "Naturalistic Parcellation and audiovisual integration"
+  image: images/brain_parcellation.png
+  description: >
+    A Neuroscout project to generate cortical parcellations using naturalistic (movie viewing) neuroimaging datasets.
+  authors: Jeff Mentch
+  link:
+    url: naturalistic_parcellation/
+    display:  Project details
+  highlight: 0
+  news2:
 
 - title: Vocal and language biomarkers of mental health
   image:
@@ -62,36 +86,18 @@
   link:
     url: http://voicesurvey.mit.edu/
     display:  Project website coming soon
-  highlight: 1
-  news2:
-
-- title: Contextual embeddings of voice and language
-  image:
-  description: >
-    The goal of this project is to improve incorporation of context in processing
-    streams of audio and/or text. This work is being done within Pliers to
-    improve features in Neuroscout and also in consideration of spoken or text
-    based dialogue systems.
-  authors: D Ghosh, D Low, G Cecchi, I Rish, F Pereira
-  link:
-    url:
-    display:  Project website coming soon
   highlight: 0
   news2:
 
-- title: Diagnosing vocal paralysis and spasmodic dysphonia
+- title: Detecting unilateral vocal fold paralysis
   image:
   description: >
-    The aim of this project is to enable a continuous tracker for voice
-    (not speech) health. Key questions we hope to answer are: 1) Can voice
-    health be tracked longitudinally using a combination of signal processing
-    and machine learning? 2) Can a clinically relevant display be built to track
-    such voice health? 3) How much individual data is needed to provide a good
-    estimate of vocal health?
-  authors: P Song
+    The aim of this project was to develop a model to detect unilateral vocal
+    fold paralysis from voice samples. 
+  authors: D Low, P Song
   link:
-    url:
-    display:  Project website coming soon
+    url: https://doi.org/10.1101/2020.11.23.20235945
+    display:  Preprint
   highlight: 1
   news2:
 
@@ -108,18 +114,6 @@
   highlight: 0
   news2: <a href="https://www.biorxiv.org/content/10.1101/568139v2">Article preprint</a>
 
-- title: Diffusion markers of hearing loss
-  image:
-  description: >
-    The aim of this project is to identify brainstem biomarkers of hearing loss
-    in humans and in mice.
-  authors: K Sitek, E Kozin, V Kanamuri
-  link:
-    url:
-    display:  Project website coming soon
-  highlight: 0
-  news2:
-
 - title: Imaging genetics analysis of schizophrenia
   image:
   description: >
@@ -130,7 +124,7 @@
    probabilistic tools provide a more sensitive approach to detecting genetic
    markers of brain structure and cognitive variation? 2) Can a common
    vocabulary help organize and analyze multi-site data?
-  authors: Y Sanchez-Araujo, K Batmanghelich, G Blokland, T Petryshen
+  authors: D Burdinski, Y Sanchez-Araujo, K Batmanghelich, G Blokland, T Petryshen
   link:
     url: https://docs.google.com/presentation/d/14wvviEmK9FYyex6y8GqT-5w5wDdq02pjAF6wP5kSyvQ/edit
     display:  OHBM 2019 presentation
