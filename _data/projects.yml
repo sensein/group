@@ -11,7 +11,7 @@
   news2: <a href="https://github.com/dandi" target="_blank">DANDI on GitHub</a>
 
 - title: "Nobrainer: A Robust And Validated Neural Netwrok Tool Suite For Imagers"
-  image: https://dl.dropbox.com/s/fhpw39cnog45p92/dandi-workflow-v2.png
+  image: https://github.com/neuronets/trained-models/raw/master/images/brain-extraction/unet-best-prediction.png
   description: >
     Develop an open Python library to simplify integrating deep learning into neuroimaging research. 
     We will build and distribute user-friendly and cloud enabled end-user applications for the 
@@ -63,14 +63,14 @@
   news2: <a href="https://github.com/neuroscout" target="_blank">Neuroscout on GitHub</a>
 
 - title: "Naturalistic Parcellation and audiovisual integration"
-  image: images/brain_parcellation.png
+  image: ../images/brain_parcellation.png
   description: >
     A Neuroscout project to generate cortical parcellations using naturalistic (movie viewing) neuroimaging datasets.
   authors: Jeff Mentch
   link:
-    url: naturalistic_parcellation/
+    url: ../naturalistic_parcellation
     display:  Project details
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: Vocal and language biomarkers of mental health
