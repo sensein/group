@@ -152,3 +152,32 @@
   highlight: 0
   news2:
 
+- title: Mental well-being platform
+  image: https://unsplash.com/photos/gpjhe4Ma8AE
+  description: >
+   The aim of this project is to create a platform outlining tasks that have been shown to improve well-being with the option of input by the user community.
+   The platform includes an optional study protocol to monitor the effects of performing the tasks over time. 
+   The website will serve as the basis for future well-being studies.
+  authors: >
+    D Low, D Burdinski, A Dulski, K Wang
+  link:
+    url: https://mentalwellbeing.us/
+    display:  Mentalwellbeing.us
+  highlight: 0
+  news2:
+ 
+ - title: Disease risk prediction from imaging genetics
+  image: /images/undraw_medicine.png
+  description: >
+   The aim of this project is to harness both genetic and brain imaging data from the Adolescent Brain Cognitive Development Study 
+   and the UK Biobank in order to design models that predict disease risk from genes and brain endophenotypes. 
+   The project will explore to what extent incorporating intermediate phenotypes that are more closely tied to biology 
+   and may capture environmental effects increases predictive ability compared to polygenic risk scores alone, 
+   and what additional insights can be gained with this method (eg. new loci discovery, better mechanistic understanding, delineation of new disease subtypes).
+  authors: >
+    D Burdinski
+  link:
+    url:
+    display:  
+  highlight: 0
+  news2:
