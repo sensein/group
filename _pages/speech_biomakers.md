@@ -8,7 +8,7 @@ permalink: /speech_biomarkers/
 
 # Voice and Language Biomarkers for Mental Health
 
-<img src="{{ "/images/1_covid_covid19_boolean.png" | prepend: site.baseurl | prepend: site.url}}" class="img-responsive" width="25%" style="float: right; margin: 0.8%; min-width: 350px" />
+<img src="{{ "/images/reddit_figure1_covid19_boolean.png" | prepend: site.baseurl | prepend: site.url}}" class="img-responsive" width="25%" style="float: right; margin: 0.8%; min-width: 350px" />
 
 **Overall Aim:** To detect mental health symptoms from voice and language data
 

@@ -74,7 +74,7 @@
   news2:
 
 - title: Voice and language biomarkers of mental health
-  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2Ffull%2F10.1002%2Flio2.354&psig=AOvVaw2YV9svAm48DbG25nqAzPxZ&ust=1615766129703000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOizg4W8ru8CFQAAAAAdAAAAABAD
+  image: ../images/review_figure3_heatmap.jpeg
   description: >
     The goal of this project is to observe and analyze speech variations in psychiatric disorders by analyzing different types of data including ecological momentary assessments, recordings of clinical interviews, and social media posts.
     Key questions we hope to answer are: 1) Is speech a good longitudinal biomarker? 2) How much speech information is needed for stable tracking? 3) Can linguistic information augment voice models? 4) Can we create a neurocomputational model of such systems?
@@ -86,7 +86,7 @@
   news2:
 
 - title: Detecting unilateral vocal fold paralysis
-  image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.medrxiv.org%2Fcontent%2F10.1101%2F2020.11.23.20235945v2.full&psig=AOvVaw0Q3PjmB-wzaprt_WdAHGcg&ust=1615766047914000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCRj-O7ru8CFQAAAAAdAAAAABAD
+  image: ../images/fig_speech_schematic_cropped.png
   description: >
     The aim of this project was to develop a model to detect unilateral vocal
     fold paralysis from audio recording of voice.
