@@ -134,7 +134,7 @@
   link:
     url: https://docs.google.com/presentation/d/14wvviEmK9FYyex6y8GqT-5w5wDdq02pjAF6wP5kSyvQ/edit
     display:  OHBM 2019 presentation
-  highlight: 0
+  highlight: 1
   news2: <a href="https://github.com/YSanchezAraujo/variational_lsrc">Analysis code</a>
 
 - title: Using neurofeedback to reduce auditory hallucination in schizophrenia
@@ -163,10 +163,10 @@
   link:
     url: https://mentalwellbeing.us/
     display:  Mentalwellbeing.us
-  highlight: 0
+  highlight: 1
   news2:
  
- - title: Disease risk prediction from imaging genetics
+- title: Disease risk prediction from imaging genetics
   image: /images/undraw_medicine.png
   description: >
    The aim of this project is to harness both genetic and brain imaging data from the Adolescent Brain Cognitive Development Study 
@@ -179,5 +179,5 @@
   link:
     url:
     display:  
-  highlight: 0
+  highlight: 1
   news2:
