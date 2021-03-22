@@ -111,7 +111,7 @@
   news2: <a href="https://www.biorxiv.org/content/10.1101/568139v2">Article preprint</a>
 
 - title: Imaging genetics analysis of schizophrenia
-  image:
+  image: ../images/OHBM_poster_model.png
   description: >
    This is a collaboration with the <a href="http://genus.mgh.harvard.edu/">Genus
    Consortium</a> to apply multivariate data mining and visualizatin tools to
@@ -143,7 +143,7 @@
   news2:
 
 - title: Mental well-being platform
-  image: https://unsplash.com/photos/gpjhe4Ma8AE
+  image: https://images.unsplash.com/photo-1588775841450-fc1aaefe1836?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=708&q=80
   description: >
    The aim of this project is to create a platform outlining tasks that have been shown to improve well-being with the option of input by the user community.
    The platform includes an optional study protocol to monitor the effects of performing the tasks over time. 
@@ -157,7 +157,7 @@
   news2:
  
 - title: Disease risk prediction from imaging genetics
-  image: /images/undraw_medicine.png
+  image: ../images/undraw_medicine.png
   description: >
    The aim of this project is to harness both genetic and brain imaging data from the Adolescent Brain Cognitive Development Study 
    and the UK Biobank in order to design models that predict disease risk from genes and brain endophenotypes. 
