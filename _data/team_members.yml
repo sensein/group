@@ -30,11 +30,11 @@
   education1: PhD Cognitive and Neural Systems, Boston University
 
 - name: Daniel M. Low
-  photo: //brainwine.files.wordpress.com/2017/08/11200633_10153377477153120_4173142851072194855_n.jpg
+  photo: ../images/daniel_low_lo_fi.png
   info: PhD Student
   email: dlow@mit.edu
   number_educ: 2
-  education1: MRes Language & Communication Technologies, University of Groningen
+  education1: MA Language & Communication Technologies, University of Groningen
   education2: MS Cognitive Science, CIMeC, University of Trento
 
 - name: Debbie Burdinski
@@ -91,3 +91,9 @@
   education1: M.S, Biomedical Engineering, Arizona State University
   education2: Ph.D. Computer Science, Technical University of Munich (TUM)
   education3: Visiting Scientist at the <a href="http://campar.in.tum.de/Chair/ResearchIBBM">Image-Based Biomedical Modeling</a> group at TUM
+  
+- name: Frances Mulligan (They/Them)
+  photo: https://avatars.githubusercontent.com/u/40801017?s=400&u=c845986f5bb7fb1774e19d228e8636476476c8c3&v=4
+  info: Technical Assistant, started 2021
+  number_educ: 1
+  education1: B.S, Johnson & Wales University
