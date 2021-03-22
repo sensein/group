@@ -38,8 +38,8 @@
   education2: MS Cognitive Science, CIMeC, University of Trento
 
 - name: Debbie Burdinski
-  photo: /images/debbie.jpeg
-  info: MD-PhD Student; HST MD Program and BBS PhD Program, Harvard Medical School and MIT
+  photo: ../images/debbie.jpeg
+  info: MD-PhD Student, Harvard Medical School and MIT
   email: dclb@mit.edu
   number_educ: 1
   education1: BS Chemistry, Duke University
