@@ -22,9 +22,9 @@ UROP projects. We work through the Quest Initiative for such projects.
 
 ## Current open positions
 
-Technical Associate: [Apply here](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=21653&localeCode=en-us)
+### Technical Associate: [Apply here](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=21653&localeCode=en-us)
 
-### Job Requirements
+#### Job Requirements
 
 **REQUIRED:**
 - a bachelor's degree in computer science, engineering, or related technical
