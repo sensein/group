@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vocallect/
 ---
 
-# Vocallect
+# Vocallect: Detecting Speech Biomarkers of Communication Disorders
 
 <img src="{{ "/images/Vocallect Image.png" | prepend: site.baseurl | prepend: site.url}}" class="img-responsive" width="25%" style="float: right; margin: 0.8%; min-width: 350px" />
 
