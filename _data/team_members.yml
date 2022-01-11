@@ -17,7 +17,7 @@
 
 - name: Hoda Rajaei
   photo: //scholar.google.com/citations?view_op=medium_photo&user=t4LK88UAAAAJ&citpid=2
-  info: Research Scientist, started July 2019
+  info: Research Staff, started July 2019
   email: hodaraja@mit.edu
   number_educ: 1
   education1: PhD Florida International University
@@ -44,20 +44,6 @@
   number_educ: 1
   education1: BS Chemistry, Duke University
 
-- name: Mathias Goncalves
-  photo: //avatars3.githubusercontent.com/u/14110164?s=460&v=4
-  info: Research Affiliate, former Technical Assistant, started 2015, working on Nipype, BANDA, ReproNim
-  email: mathiasg@mit.edu
-  number_educ: 1
-  education1: BA Biology, Boston University
-
-- name: Sanu Ann Abraham
-  photo: //avatars3.githubusercontent.com/u/5114945?s=460&v=4
-  info: Technical Assistant, started 2018, working on Repronim
-  email: sanuann@mit.edu
-  number_educ: 1
-  education1: MS Electronics and Electrical Communication Engineering, IIT Kharagpur
-  
 - name: Jeff Mentch
   photo: https://scholar.harvard.edu/files/mentch/files/y3xdh4wb_400x400.jpg
   info: PhD Student, Harvard SHBT

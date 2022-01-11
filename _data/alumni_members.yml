@@ -1,3 +1,19 @@
+- name: Mathias Goncalves
+  photo: //avatars3.githubusercontent.com/u/14110164?s=460&v=4
+  info: Research Affiliate/Technical Assistant, worked on Nipype, BANDA, ReproNim
+  duration: 2015 - 2021
+  email: mathiasg@mit.edu
+  number_educ: 1
+  education1: BA Biology, Boston University
+
+- name: Sanu Ann Abraham
+  photo: //avatars3.githubusercontent.com/u/5114945?s=460&v=4
+  info: Technical Assistant, worked on Repronim
+  duration: 2018 - 2021
+  email: sanuann@mit.edu
+  number_educ: 1
+  education1: MS Electronics and Electrical Communication Engineering, IIT Kharagpur
+
 - name: Frances Mulligan (They/Them)
   photo: https://avatars.githubusercontent.com/u/40801017?s=400&u=c845986f5bb7fb1774e19d228e8636476476c8c3&v=4
   info: Technical Assistant, worked on mumble melody and reproschema

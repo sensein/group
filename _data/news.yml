@@ -13,6 +13,13 @@
 - date: 2020 09 04
   headline: Congratulations Alice on her Master's thesis.
 
+- date: 2020 08 01
+  headline: >
+    Received BRAIN Initiative award for Nobrainer deep learning software
+    together with Sergey Plis at Georgia State University and Bruce Fischl
+    at MGH
+    <a href="https://reporter.nih.gov/project-details/10021957">Award details</a>
+
 - date: 2020 03 15
   headline: >
     Pydra paper published at Scipy conference
@@ -64,7 +71,7 @@
   headline: >
     Received BRAIN Initiative award for a cellular neurophysiology archive
     together with Yaroslav Halchenko at Dartmouth, and Kitware.
-    <a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9795271">Award details</a>
+    <a href="https://reporter.nih.gov/project-details/9795271">Award details</a>
 
 - date: 2019 07 15
   headline: Welcome Hoda Rajaei!
