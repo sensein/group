@@ -172,3 +172,17 @@
     display:  
   highlight: 1
   news2:
+
+- title: "Vocallect: Detecting Speech Biomarkers of Communication Disorders"
+  image: ../images/Vocallect Image.png
+  description: >
+    The purpose of this study is to understand and classify the impacts that communication disorders may have on speech production and acoustic quality. Subjects
+    will respond to questions regarding their current health, and provide sample voice recordings and free and read speech through a smartphone application and/or 
+    web browser. By collecting and correlating self-reported symptoms with audio features, we intend to develop and validate a voice-based technology using signal
+    processing and machine learning that can be used for in-hospital and in-home monitoring of communication disorders, treatment, and recovery.
+  authors: K Nguyen
+  link:
+    url: ../vocallect
+    display:  Project details
+  highlight: 1
+  news2:
